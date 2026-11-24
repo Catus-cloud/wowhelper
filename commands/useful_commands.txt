@@ -1,0 +1,13 @@
+World of Warcraft useful commands / 魔兽世界实用命令
+====================================================
+Type each command into the chat box (or put it in a macro) and press Enter.
+
+1. 最大视野距离 / Max camera zoom distance
+   /console cameraDistanceMaxZoomFactor 4
+   最大视野距离数值 可在1-4内调整
+   (The number sets the max camera distance; adjustable from 1 to 4.)
+
+2. 彩色跑尸宏 / Colored corpse-run macro
+   /console ffxDeath 0
+   (Turns off the grey death-screen effect, so the ghost run stays in color.
+    Use /console ffxDeath 1 to turn it back on.)
