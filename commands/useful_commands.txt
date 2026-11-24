@@ -3,7 +3,7 @@ World of Warcraft useful commands / 魔兽世界实用命令
 Type each command into the chat box (or put it in a macro) and press Enter.
 
 1. 最大视野距离 / Max camera zoom distance
-   /console cameraDistanceMaxZoomFactor 4
+   /console cameraDistanceMaxZoomFactor 2
    最大视野距离数值 可在1-4内调整
    (The number sets the max camera distance; adjustable from 1 to 4.)
 
